@@ -20,7 +20,7 @@ Analizar de forma integrada datos provenientes de sensores agrícolas y de la re
 │   └── ener_noise.csv
 ├── notebook/
 │   ├── Briefing_Consultoría_Senior.ipynb
-├── Informw/
+├── informe/
 │   ├── Informe_Analitica_Multidimensional_TechLogistics.docx
 ├── README.md
 ```
