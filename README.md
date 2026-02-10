@@ -21,7 +21,7 @@ Analizar de forma integrada datos provenientes de sensores agrícolas y de la re
 ├── notebook/
 │   ├── Briefing_Consultoría_Senior.ipynb
 ├── informe/
-│   ├── Informe_Analitica_Multidimensional_TechLogistics.docx
+│   ├── Taller_3_fundamentos_ciencia_de_datos.pdf
 ├── README.md
 ```
 ## Miembros del equipo
